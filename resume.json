@@ -114,8 +114,8 @@
       "institution": "Hindu School",
       "area": "Science",
       "studyType": "West Bengal Council of Higher Secondary Education",
-      "startDate": "2010",
-      "endDate": "2012",
+      "startDate": "2010-03-01",
+      "endDate": "2012-03-01",
       "gpa": "77%",
       "location": "Kolkata, WB"
     },
@@ -123,8 +123,8 @@
       "institution": "The Scottish Church Collegiate School",
       "area": "",
       "studyType": "West Bengal Board of Secondery Education",
-      "startDate": "2000",
-      "endDate": "2010",
+      "startDate": "2000-03-01",
+      "endDate": "2010-03-01",
       "gpa": "81.12%",
       "location": "Kolkata, WB"
     }
