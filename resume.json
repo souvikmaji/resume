@@ -286,5 +286,6 @@
       "name": "Travelling with Friends",
       "keywords": []
     }
-  ]
+  ],
+  { "meta": { "theme": "elegant" } }
 }
