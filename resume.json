@@ -1,0 +1,290 @@
+{
+  "basics": {
+    "name": "Souvik Maji",
+    "label": "Full Stack Developer",
+    "picture": "",
+    "email": "souvikmaji94@gmail.com",
+    "phone": "(+91) 9432489362",
+    "website": "https://github.com/souvikmaji",
+    "summary": "Hard-working and self motivated Full-stack developer with strong commitment to collaboration and solutions-oriented problem-solving. Experienced in Design and Development of End to End solutions using Restful APIs and Micro-services.",
+    "location": {
+      "address": "3C, Mahadev Apartment. 30, Nandanpara Road.",
+      "postalCode": "700079",
+      "city": "Kolkata",
+      "countryCode": "IN",
+      "region": "West Bengal"
+    },
+    "profiles": [{
+        "network": "GitHub",
+        "username": "souvikmaji",
+        "url": "https://github.com/souvikmaji"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "souvikmaji",
+        "url": "https://www.linkedin.com/in/souvikmaji"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "souvikmaji",
+        "url": "https://stackoverflow.com/users/3198508/souvikmaji"
+      }
+    ]
+  },
+  "work": [{
+    "company": "Paypermint",
+    "position": "Product Engineer",
+    "website": "https://payabbhi.com",
+    "startDate": "2017-06-05",
+    "endDate": "2017-06-05",
+    "summary": "Working as a Product Engineer in Paypermint - the next generation trusted payments platform engineered to power online businesses.",
+    "highlights": [
+      "Involved in requirement analysis to gather information from various stakeholders and create a high-level software design.",
+      "Designed Restful APIs, Backend Micro services communicating with each other using GRPC protocol, and SQL & NoSql databases.",
+      "Spearheaded Product Development Lifecycle from understanding the Business Case to Implementation for 10+ major features.",
+      "Experience in interacting with 3rd party vendors and clients to provide and support technical solutions.",
+      " to migrate a legacy web application written in GoLang to Spring Web MVC.",
+      "Involved in Development and Maintenance of Wrapper Libraries in (Java, Python, Go, NodeJs) and mobile SDKs(Android, Cordova) around existing APIs."
+    ],
+    "location": "Kolkata, WB"
+  }],
+  "projects": [{
+      "keywords": ["Tools used(C++, Wt, Python, Flask)"],
+      "name": "Rural Health Care Monitoring System",
+      "description": "Implemented a load balancing service to balance load in a wireless sensor network which is used to receive medical data from rural health care centres. Developed a web-based dashboard to be used by doctors to monitor patient data. Created a Medicine Reminder System.",
+      "url": "https://github.com/souvikmaji/healthcare"
+    },
+    {
+      "keywords": ["Tools used(C++)"],
+      "name": "Bengali OCR",
+      "description": "Statistical language modelling of Bengali text to design a handwritten Bengali character recognition system.",
+      "url": ""
+    },
+    {
+      "keywords": ["NodeJs, MySql"],
+      "name": "Foodcache",
+      "description": "Express based Web Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and slack. The admin of this application can handle accounts and can view which users still owe money.",
+      "url": "https://github.com/souvikmaji/foodcache"
+    },
+    {
+      "keywords": ["Golang"],
+      "name": "Hobbit",
+      "description": "Git based static site generator written in golang. Inspired from https://github.com/gollum/gollum",
+      "url": "https://github.com/souvikmaji/hobbit"
+    },
+    {
+      "keywords": ["Node"],
+      "name": "Got-Bot",
+      "description": "Twitter bot that posts game of throne memes from reddit.",
+      "url": "https://github.com/souvikmaji/got-bot"
+    },
+    {
+      "keywords": ["Golang"],
+      "name": "VBM - Virtual Brainfucking Machine",
+      "description": "VBM is a simple yet fast brainfuck interpreter.",
+      "url": "https://github.com/souvikmaji/vbm"
+    },
+    {
+      "keywords": ["JavaScript"],
+      "name": "Cross The Road",
+      "description": "Arcade style game developed in JavaScript. Inspired from Frogger",
+      "url": "https://github.com/souvikmaji/cross-the-road"
+    }
+  ],
+  "volunteer": [{
+    "organization": "Jadavpur University Linux User Group",
+    "position": "Organiser",
+    "website": "http://lugju.wikidot.com",
+    "startDate": "2012-01-01",
+    "endDate": "2013-01-01",
+    "summary": "Student body organisation to inform, discuss and further students knowledge of Linux based operating systems, Free Open Source Softwares and Tools",
+    "highlights": []
+  }],
+  "education": [{
+      "institution": "Jadavpur University",
+      "area": "Computer Science and Technology",
+      "studyType": "Bachelor of Engineering(BE)",
+      "startDate": "2013",
+      "endDate": "2017",
+      "gpa": "6.94",
+      "courses": [],
+      "location": "Kolkata, WB"
+    },
+    {
+      "institution": "Hindu School",
+      "area": "Science",
+      "studyType": "West Bengal Council of Higher Secondary Education",
+      "startDate": "2010",
+      "endDate": "2012",
+      "gpa": "77%",
+      "location": "Kolkata, WB"
+    },
+    {
+      "institution": "The Scottish Church Collegiate School",
+      "area": "",
+      "studyType": "West Bengal Board of Secondery Education",
+      "startDate": "2000",
+      "endDate": "2010",
+      "gpa": "81.12%",
+      "location": "Kolkata, WB"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Server Side Application Development",
+      "level": "Intermediate",
+      "keywords": ["Golang", "Java", "Spring Boot", "Node", "Express", "Python", "flask"]
+    },
+    {
+      "name": "Front End Technologies",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "Response Web Design"
+      ]
+    },
+    {
+      "name": "Cross Platform Mobile Technologies",
+      "level": "Intermediate",
+      "keywords": ["React Native", "Ionic", "Cordova"]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate"
+    },
+    {
+      "name": "Golang",
+      "level": "Intermediate",
+      "keywords": [
+        "Microservices",
+        "http server and client",
+        "grpc server client"
+      ]
+    },
+    {
+      "name": "Restful API Design",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "AWS Technologies",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "Database Design",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "MySQL",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "MongoDB",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "GRPC",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": []
+    },
+    {
+      "name": "Shell Script",
+      "level": "Beginner",
+      "keywords": ["bash", "zsh"]
+    },
+    {
+      "name": "Python",
+      "level": "Beginner",
+      "keywords": ["2 and 3"]
+    },
+    {
+      "name": "Java",
+      "level": "Beginner",
+      "keywords": ["version 8"]
+    },
+    {
+      "name": "Docker",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "Algorithm and Data Structure",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "C",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "C++",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "React",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "React Native",
+      "level": "Beginner",
+      "keywords": [""]
+    },
+    {
+      "name": "Ionic/Cordova",
+      "level": "Intermediate",
+      "keywords": [""]
+    },
+    {
+      "name": "Spring Boot",
+      "level": "Beginner",
+      "keywords": ["Web", "RestClient", "WebMVC", "JPA", "Thymeleaf", "Testing"]
+    }
+  ],
+  "languages": [{
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Proficient"
+    }
+  ],
+  "interests": [{
+      "name": "Reading Books",
+      "keywords": []
+    },
+    {
+      "name": "Watching Movies",
+      "keywords": []
+    },
+    {
+      "name": "Trying Out New Techonologies",
+      "keywords": []
+    },
+    {
+      "name": "Travelling with Friends",
+      "keywords": []
+    }
+  ]
+}
