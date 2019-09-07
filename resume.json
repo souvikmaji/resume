@@ -1,4 +1,5 @@
 {
+  "meta": { "theme": "elegant" }, 
   "basics": {
     "name": "Souvik Maji",
     "label": "Full Stack Developer",
@@ -286,6 +287,5 @@
       "name": "Travelling with Friends",
       "keywords": []
     }
-  ],
-  { "meta": { "theme": "elegant" } }
+  ]
 }
