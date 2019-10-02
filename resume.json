@@ -93,7 +93,7 @@
         "Node"
       ],
       "name": "Got-Bot",
-      "description": "Twitter bot that posts game of thrones memes from reddit.",
+      "description": "Twitter bot that can post random content (media/text) from a particular subreddit.",
       "url": "https://github.com/souvikmaji/got-bot"
     },
     {
@@ -129,8 +129,8 @@
       "institution": "Jadavpur University",
       "area": "Object-Oriented JavaScript",
       "studyType": "",
-      "startDate": "",
-      "endDate": "",
+      "startDate": "2013-7-1",
+      "endDate": "2017-5-1",
       "gpa": "6.94",
       "courses": [],
       "location": "Kolkata, WB"
