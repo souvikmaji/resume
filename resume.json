@@ -37,6 +37,7 @@
   },
   "work": [
     {
+
       "company": "Paypermint",
       "position": "Product Engineer",
       "website": "https://payabbhi.com",
@@ -53,7 +54,24 @@
         "Experience in interacting with 3rd party vendors and clients to provide and support technical solutions."
       ],
       "location": "Kolkata, WB"
-    }
+    },
+	{
+		"company": "Junglee Games",
+		"position": "SDE II",
+		"website": "https://www.jungleegames.com",
+		"startDate": "2019-12-02",
+		"endDate": "present",
+		"summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill games company.",
+		"highlights": [
+			"Created service for auto kyc verification of users based on a fuzzy name matching logic",
+			"Implemented a rule engine for calculating cashback bonus based on human readable rules",
+			"Developed backend for admin server for internal purpose",
+			"Optimized query performance for some critical time consuming sql operations upto 33%",
+			"Created scalable solution for showing live score for sport matches for Howzat app"
+				],
+		"location": "Bangalore, KA"
+		}
+
   ],
   "projects": [
     {
@@ -80,12 +98,20 @@
       "description": "Express based Web Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and slack. The admin of this application can handle accounts and can view which users still owe money.",
       "url": "https://github.com/souvikmaji/foodcache"
     },
+	{
+      "keywords": [
+        "Golang, Jquery Datatables"
+      ],
+      "name": "Leaderboard",
+      "description": "Golang web application with a RESTful interface for managing game leaderboards. Benchmarked leaderboard calculation time for Redis vs PostgreSql database. Developed a single page JQuery Datatables based UI.",
+      "url": "https://github.com/souvikmaji/leaderboard"
+    },
     {
       "keywords": [
         "Golang"
       ],
       "name": "Hobbit",
-      "description": "Git based static site generator written in Golang. Inspired from https://github.com/gollum/gollum",
+      "description": "Static site generator written in Golang which uses git as a backend. Inspired from https://github.com/gollum/gollum",
       "url": "https://github.com/souvikmaji/hobbit"
     },
     {
@@ -182,7 +208,8 @@
         "ReactJS",
         "GRPC",
         "Ionic/Cordova",
-        "Mocha & Chai"
+        "Mocha & Chai",
+        "OSGI"
       ]
     },
     {
@@ -194,7 +221,7 @@
       "name": "Infrastructure",
       "level": "",
       "keywords": [
-         "AWS", "Docker", "Vault", "Consul", "Heroku", "Google Cloud Platform"
+         "AWS", "Docker", "Vault", "Zookeeper", "Consul", "Heroku", "Google Cloud Platform", "Nomad"
       ]
     },
     {
@@ -202,7 +229,11 @@
       "level": "",
       "keywords": [
         "MySQL",
+        "PostgreSQL",
         "MongoDB",
+        "Redis",
+        "Kafka",
+        "Neo4j",
         "DynamoDB"
       ]
     },
