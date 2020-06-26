@@ -60,7 +60,7 @@
 		"position": "SDE II",
 		"website": "https://www.jungleegames.com",
 		"startDate": "2019-12-02",
-		"endDate": "present",
+		
 		"summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill games company.",
 		"highlights": [
 			"Created service for auto kyc verification of users based on a fuzzy name matching logic",
