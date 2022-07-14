@@ -36,6 +36,7 @@
     ]
   },
   "work": [
+    
     {
       "company": "Paypermint",
       "position": "Product Engineer",
@@ -59,6 +60,7 @@
       "position": "SDE II",
       "website": "https://www.jungleegames.com",
       "startDate": "2019-12-02",
+      "endDate": "2021-12-27",
       "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill games company.",
       "highlights": [
         "Created service for auto kyc verification of users based on a fuzzy name matching logic",
@@ -66,6 +68,21 @@
         "Developed backend for admin server for internal purpose",
         "Optimized query performance for some critical time consuming sql operations upto 33%",
         "Created scalable solution for showing live score for sport matches for Howzat app"
+      ],
+      "location": "Bangalore, KA"
+    },
+    {
+      "company": "Razorpay",
+      "position": "Senior Software Engineer",
+      "website": "https://www.razorpay.com",
+      "startDate": "2021-12-29",
+      "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
+      "highlights": [
+        "Co-leading a pod of 9 engineers that manages international payments done via the Razorpay payment gateway.",
+        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
+        "Currently leading the effort for the implementation of B2B export payment transfers which will support large ticket transactions.",
+        "Optimized query performance for some critical time consuming sql operations upto 33%",
+        "Also working on designing of a new micro service to handle International PSP integrations."
       ],
       "location": "Bangalore, KA"
     }
