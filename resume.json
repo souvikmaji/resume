@@ -5,10 +5,10 @@
   "basics": {
     "name": "Souvik Maji",
     "label": "Full Stack Developer",
-    "picture": "https://www.dropbox.com/s/6nhjb4iejx9fsud/PSFix_20191203_003640.jpg?dl=0",
+    "picture": "https://my-personal-pictures.s3.ap-south-1.amazonaws.com/PSFix_20191203_003640.jpg",
     "email": "souvikmaji94@gmail.com",
     "phone": "(+91) 9432489362",
-    "website": "https://cv.resume.in",
+    "website": "https://cv.souviks.in",
     "summary": "Hard-working and self-motivated senior backend engineer with a strong commitment to collaboration and solutions oriented problem-solving. Experienced in Design and Development of End to End solutions using Restful APIs and Micro-services.",
     "location": {
       "address": "",
@@ -213,7 +213,8 @@
       "name": "Frameworks",
       "level": "",
       "keywords": [
-        "Spring Boot (Data, Cloud, Security, MVC)",
+        "Spring Boot",
+        "Gin",
         "JUnit",
         "Express",
         "Flask",
