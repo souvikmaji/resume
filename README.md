@@ -1,6 +1,6 @@
 # Resume
 
-<url>
+<resume.souviks.in>
 
 Public resume website. 
 
