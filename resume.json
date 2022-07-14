@@ -36,7 +36,6 @@
     ]
   },
   "work": [
-    
     {
       "company": "Paypermint",
       "position": "Product Engineer",
@@ -198,8 +197,8 @@
   "publications": [],
   "skills": [
     {
-      "name": "Languages",
-      "level": "Intermediate",
+      "name": "Programming Languages",
+      "level": "",
       "keywords": [
         "Golang",
         "Java",
@@ -212,7 +211,7 @@
     },
     {
       "name": "Frameworks",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Spring Boot (Data, Cloud, Security, MVC)",
         "JUnit",
@@ -223,7 +222,8 @@
         "GRPC",
         "Ionic/Cordova",
         "Mocha & Chai",
-        "OSGI"
+        "OSGI",
+        "RxJava"
       ]
     },
     {
@@ -246,7 +246,9 @@
         "Consul",
         "Heroku",
         "Google Cloud Platform",
-        "Nomad"
+        "Nomad",
+        "Kubernetes",
+        "AWS Cloudformation"
       ]
     },
     {
@@ -264,7 +266,7 @@
     },
     {
       "name": "Server Side Application Development",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "Golang",
         "Java",
@@ -277,7 +279,7 @@
     },
     {
       "name": "Front End Technologies",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "HTML",
         "CSS",
@@ -288,7 +290,7 @@
     },
     {
       "name": "Cross Platform Mobile Technologies",
-      "level": "Intermediate",
+      "level": "",
       "keywords": [
         "React Native",
         "Ionic",
@@ -297,83 +299,55 @@
     },
     {
       "name": "Git",
-      "level": "Intermediate"
-    },
-    {
-      "name": "Golang",
-      "level": "Intermediate",
-      "keywords": [
-        "Microservices",
-        "http server and client",
-        "grpc server client"
-      ]
+      "level": ""
     },
     {
       "name": "Restful API Design",
-      "level": "Intermediate",
+      "level": "",
       "keywords": []
     },
     {
       "name": "AWS Technologies",
-      "level": "Beginner",
+      "level": "",
       "keywords": [
-        ""
+        "EC2",
+        "S3",
+        "RDS",
+        "Cloudfront",
+        "VPC",
+        "SNS",
+        "Lambda",
+        "Beanstalk",
+        "API Gateway",
+        "Elastic Cache",
+        "DynamoDB",
+        "IAM",
+        "SQS",
+        "Cloudwatch",
+        "Congnito",
+        "Route 53",
+        "Cloudformation",
+        "KMS"
       ]
     },
     {
       "name": "Database Design",
-      "level": "Beginner",
+      "level": "",
       "keywords": [
         ""
       ]
-    },
-    {
-      "name": "MySQL",
-      "level": "Beginner",
-      "keywords": []
-    },
-    {
-      "name": "MongoDB",
-      "level": "Beginner",
-      "keywords": []
     },
     {
       "name": "GRPC",
-      "level": "Intermediate",
+      "level": "",
       "keywords": []
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": []
-    },
-    {
-      "name": "Shell Script",
-      "level": "Beginner",
+      "name": "Shell Scripting",
+      "level": "",
       "keywords": [
         "bash",
         "zsh"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Beginner",
-      "keywords": [
-        "2 and 3"
-      ]
-    },
-    {
-      "name": "Java",
-      "level": "Beginner",
-      "keywords": [
-        "version 8"
-      ]
-    },
-    {
-      "name": "Docker",
-      "level": "Beginner",
-      "keywords": [
-        ""
       ]
     },
     {
@@ -384,46 +358,12 @@
       ]
     },
     {
-      "name": "C",
-      "level": "Beginner",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "C++",
-      "level": "Beginner",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "ReactJS",
-      "level": "Beginner",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "React Native",
-      "level": "Beginner",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "Ionic/Cordova",
-      "level": "Intermediate",
-      "keywords": [
-        ""
-      ]
-    },
-    {
       "name": "Spring Boot",
-      "level": "Beginner",
+      "level": "",
       "keywords": [
         "Web",
         "RestClient",
+        "Configuration",
         "WebMVC",
         "JPA",
         "Thymeleaf",
