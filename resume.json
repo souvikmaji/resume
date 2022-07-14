@@ -37,22 +37,19 @@
   },
   "work": [
     {
-      "company": "Paypermint",
-      "position": "Product Engineer",
-      "website": "https://payabbhi.com",
-      "startDate": "2017-06-05",
-      "endDate": "2019-12-01",
-      "summary": "Working as a Product Engineer in Paypermint - the next generation trusted payments platform engineered to power online businesses.",
+      "company": "Razorpay",
+      "position": "Senior Software Engineer",
+      "website": "https://www.razorpay.com",
+      "startDate": "2021-12-29",
+      "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
       "highlights": [
-        "Involved in all stages of Product Development Lifecycle from understanding the Business Case to Implementation.",
-        "Worked extensively in Microservice Architecture using SQL & NoSql databases with GRPC as the communication protocol.",
-        "Designed and Implemented Paypermint's Invoicing and Subscription solution.",
-        "Lead the effort to migrate a legacy web application to Spring Web MVC with a Bootstrap dashboard theme.",
-        "Developed and maintained Restful APIs and Open Source API Wrapper Libraries in (Java, Python, Go, NodeJs) & mobile SDKs(Android, Cordova).",
-        "Created many Single Page Web Applications to support complex application workflows.",
-        "Experience in interacting with 3rd party vendors and clients to provide and support technical solutions."
+        "Co-leading a pod of 9 engineers that manages international payments done via the Razorpay payment gateway.",
+        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
+        "Currently leading the effort for the implementation of B2B export payment transfers which will support large ticket transactions.",
+        "Optimized query performance for some critical time consuming sql operations upto 33%",
+        "Also working on designing of a new micro service to handle International PSP integrations."
       ],
-      "location": "Kolkata, WB"
+      "location": "Bangalore, KA"
     },
     {
       "company": "Junglee Games",
@@ -71,19 +68,22 @@
       "location": "Bangalore, KA"
     },
     {
-      "company": "Razorpay",
-      "position": "Senior Software Engineer",
-      "website": "https://www.razorpay.com",
-      "startDate": "2021-12-29",
-      "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
+      "company": "Paypermint",
+      "position": "Product Engineer",
+      "website": "https://payabbhi.com",
+      "startDate": "2017-06-05",
+      "endDate": "2019-12-01",
+      "summary": "Working as a Product Engineer in Paypermint - the next generation trusted payments platform engineered to power online businesses.",
       "highlights": [
-        "Co-leading a pod of 9 engineers that manages international payments done via the Razorpay payment gateway.",
-        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
-        "Currently leading the effort for the implementation of B2B export payment transfers which will support large ticket transactions.",
-        "Optimized query performance for some critical time consuming sql operations upto 33%",
-        "Also working on designing of a new micro service to handle International PSP integrations."
+        "Involved in all stages of Product Development Lifecycle from understanding the Business Case to Implementation.",
+        "Worked extensively in Microservice Architecture using SQL & NoSql databases with GRPC as the communication protocol.",
+        "Designed and Implemented Paypermint's Invoicing and Subscription solution.",
+        "Lead the effort to migrate a legacy web application to Spring Web MVC with a Bootstrap dashboard theme.",
+        "Developed and maintained Restful APIs and Open Source API Wrapper Libraries in (Java, Python, Go, NodeJs) & mobile SDKs(Android, Cordova).",
+        "Created many Single Page Web Applications to support complex application workflows.",
+        "Experience in interacting with 3rd party vendors and clients to provide and support technical solutions."
       ],
-      "location": "Bangalore, KA"
+      "location": "Kolkata, WB"
     }
   ],
   "projects": [
@@ -298,15 +298,6 @@
       ]
     },
     {
-      "name": "Git",
-      "level": ""
-    },
-    {
-      "name": "Restful API Design",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "AWS Technologies",
       "level": "",
       "keywords": [
@@ -331,30 +322,11 @@
       ]
     },
     {
-      "name": "Database Design",
-      "level": "",
-      "keywords": [
-        ""
-      ]
-    },
-    {
-      "name": "GRPC",
-      "level": "",
-      "keywords": []
-    },
-    {
       "name": "Shell Scripting",
       "level": "",
       "keywords": [
         "bash",
         "zsh"
-      ]
-    },
-    {
-      "name": "Algorithm and Data Structure",
-      "level": "Beginner",
-      "keywords": [
-        ""
       ]
     },
     {
@@ -368,6 +340,17 @@
         "JPA",
         "Thymeleaf",
         "Testing"
+      ]
+    },
+    {
+      "name": "Misc",
+      "level": "",
+      "keywords": [
+        "Algorithm and Data Structure",
+        "GRPC",
+        "Database Design",
+        "Restful API Design",
+        "Git"
       ]
     }
   ],
