@@ -227,12 +227,13 @@
       ]
     },
     {
-      "name": "ORM",
+      "name": "ORMs",
       "level": "",
       "keywords": [
         "Gorm, MGo(GoLang)",
-        "Hibernate (Java)",
-        "Sequelize (NodeJS)"
+        "Hibernate, Liquibase (Java)",
+        "Sequelize (NodeJS)",
+        "Sqlalchemy (Python)"
       ]
     },
     {
