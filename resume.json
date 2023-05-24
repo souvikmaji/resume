@@ -37,17 +37,29 @@
   },
   "work": [
     {
+      "company": "Fairmatic",
+      "position": "Senior Software Engineer",
+      "website": "https://www.fairmatic.com",
+      "startDate": "2022-09-05",
+      "summary": "Senior Backend Engineer in the fleet experience team",
+      "highlights": [
+       
+      ],
+      "location": "Remote"
+    },
+    {
       "company": "Razorpay",
       "position": "Senior Software Engineer",
       "website": "https://www.razorpay.com",
       "startDate": "2021-12-29",
+      "endDate": "2022-08-17",
       "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
       "highlights": [
-        "Co-leading a pod of 9 engineers that manages international payments done via the Razorpay payment gateway.",
-        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
-        "Currently leading the effort for the implementation of B2B export payment transfers which will support large ticket transactions.",
-        "Optimized query performance for some critical time consuming sql operations upto 33%",
-        "Also working on designing of a new micro service to handle International PSP integrations."
+        "Collaborated on developing and managing the platform to support all international payments done through the Razorpay payment gateway.",
+        "Contributed to the design and implementation of international recurring payments",
+        "Led the backend development efforts for the implementation of a B2B export payment transfer system, supporting large ticket transactions.",
+      
+        "Actively involved in designing a new microservice to handle International PSP integrations."
       ],
       "location": "Bangalore, KA"
     },
@@ -59,11 +71,11 @@
       "endDate": "2021-12-27",
       "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill games company.",
       "highlights": [
-        "Created service for auto kyc verification of users based on a fuzzy name matching logic",
-        "Implemented a rule engine for calculating cashback bonus based on human readable rules",
-        "Developed backend for admin server for internal purpose",
-        "Optimized query performance for some critical time consuming sql operations upto 33%",
-        "Created scalable solution for showing live score for sport matches for Howzat app"
+        "Created a service for auto KYC verification of users, utilizing a fuzzy name matching logic.",
+        "Implemented a rule engine to calculate cashback bonuses based on human-readable rules.",
+        "Developed the backend for an internal admin server.",
+        "Successfully optimized query performance for critical time-consuming SQL operations, resulting in a significant improvement of up to 33%.",
+        "Designed and implemented a scalable solution to display live scores for sports matches in the Howzat app."
       ],
       "location": "Bangalore, KA"
     },
@@ -75,13 +87,13 @@
       "endDate": "2019-12-01",
       "summary": "Working as a Product Engineer in Paypermint - the next generation trusted payments platform engineered to power online businesses.",
       "highlights": [
-        "Involved in all stages of Product Development Lifecycle from understanding the Business Case to Implementation.",
-        "Worked extensively in Microservice Architecture using SQL & NoSql databases with GRPC as the communication protocol.",
+        "Engaged in all stages of the Product Development Lifecycle, from understanding the Business Case to Implementation.",
+        "Extensively worked with Microservice Architecture, utilizing SQL & NoSQL databases, and employing GRPC as the communication protocol.",
         "Designed and Implemented Paypermint's Invoicing and Subscription solution.",
-        "Lead the effort to migrate a legacy web application to Spring Web MVC with a Bootstrap dashboard theme.",
-        "Developed and maintained Restful APIs and Open Source API Wrapper Libraries in (Java, Python, Go, NodeJs) & mobile SDKs(Android, Cordova).",
-        "Created many Single Page Web Applications to support complex application workflows.",
-        "Experience in interacting with 3rd party vendors and clients to provide and support technical solutions."
+        "Led the effort to migrate a legacy web application to Spring Web MVC, incorporating a Bootstrap dashboard theme.",
+        "Developed and maintained Restful APIs and Open Source API Wrapper Libraries in various languages, including Java, Python, Go, NodeJs, as well as mobile SDKs like Android and Cordova.",
+        "Created multiple Single Page Web Applications to support complex application workflows.",
+        "Experience in collaborating with 3rd party vendors and clients, providing and supporting technical solutions."
       ],
       "location": "Kolkata, WB"
     }
