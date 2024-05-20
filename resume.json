@@ -4,12 +4,12 @@
   },
   "basics": {
     "name": "Souvik Maji",
-    "label": "Full Stack Developer",
+    "label": "Senior Backend Engineer",
     "picture": "https://my-personal-pictures.s3.ap-south-1.amazonaws.com/PSFix_20191203_003640.jpg",
     "email": "souvikmaji94@gmail.com",
     "phone": "(+91) 9432489362",
     "website": "https://cv.souviks.in",
-    "summary": "Hard-working and self-motivated senior backend engineer with a strong commitment to collaboration and solutions oriented problem-solving. Experienced in Design and Development of End to End solutions using Restful APIs and Micro-services.",
+    "summary": "Hard-working and self-motivated senior backend engineer with a strong commitment to collaboration and solution oriented problem-solving. Experienced in Design and Development of End to End solutions using Restful APIs and Micro-services.",
     "location": {
       "address": "",
       "postalCode": "700079",
@@ -38,7 +38,7 @@
   "work": [
     {
       "company": "Fairmatic",
-      "position": "Senior Software Engineer",
+      "position": "Senior Software Engineer II",
       "website": "https://www.fairmatic.com",
       "startDate": "2022-09-05",
       "summary": "Senior Backend Engineer in the fleet experience team",
@@ -54,11 +54,11 @@
       "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
       "highlights": [
         "Collaborated on developing and managing the platform to support all international payments done through the Razorpay payment gateway.",
-        "Contributed to the design and implementation of international recurring payments",
+        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
         "Led the backend development efforts for the implementation of a B2B export payment transfer system, supporting large ticket transactions.",
         "Actively involved in designing a new microservice to handle International PSP integrations."
       ],
-      "location": "Bangalore, KA"
+      "location": "Remote"
     },
     {
       "company": "Junglee Games",
@@ -82,7 +82,7 @@
       "website": "https://payabbhi.com",
       "startDate": "2017-06-05",
       "endDate": "2019-12-01",
-      "summary": "Working as a Product Engineer in Paypermint - the next generation trusted payments platform engineered to power online businesses.",
+      "summary": "Working as a Product Engineer in Paypermint - the next-generation trusted payments platform engineered to power online businesses.",
       "highlights": [
         "Engaged in all stages of the Product Development Lifecycle, from understanding the Business Case to Implementation.",
         "Extensively worked with Microservice Architecture, utilizing SQL & NoSQL databases, and employing GRPC as the communication protocol.",
@@ -117,7 +117,7 @@
         "NodeJs, MySql"
       ],
       "name": "Foodcache",
-      "description": "Express based Web Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and slack. The admin of this application can handle accounts and can view which users still owe money.",
+      "description": "Express based Web Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and Slack. The admin of this application can handle accounts and can view which users still owe money.",
       "url": "https://github.com/souvikmaji/foodcache"
     },
     {
@@ -125,7 +125,7 @@
         "Golang, Jquery Datatables"
       ],
       "name": "Leaderboard",
-      "description": "Golang web application with a RESTful interface for managing game leaderboards. Benchmarked leaderboard calculation time for Redis vs PostgreSql database. Developed a single page JQuery Datatables based UI.",
+      "description": "Golang web application with a RESTful interface for managing game leaderboards. Benchmarked leaderboard calculation time for Redis vs PostgreSQL database. Developed a single page JQuery Datatables based UI.",
       "url": "https://github.com/souvikmaji/leaderboard"
     },
     {
@@ -168,7 +168,7 @@
       "website": "http://lugju.wikidot.com",
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
-      "summary": "Student body organisation to inform, discuss and further students knowledge of Linux based operating systems, Free Open Source Softwares and Tools",
+      "summary": "Student body organisation to inform, discuss and further students knowledge of Linux based operating systems, Free Open Source Software and Tools",
       "highlights": []
     }
   ],
@@ -195,7 +195,7 @@
     {
       "institution": "The Scottish Church Collegiate School",
       "area": "",
-      "studyType": "West Bengal Board of Secondery Education",
+      "studyType": "West Bengal Board of Secondary Education",
       "startDate": "2000-03-01",
       "endDate": "2010-03-01",
       "gpa": "81.12%",
@@ -222,11 +222,12 @@
       "name": "Frameworks",
       "level": "",
       "keywords": [
+         "Flask",
         "Spring Boot",
         "Gin",
         "JUnit",
         "Express",
-        "Flask",
+        "PySpark",
         "Bootstrap",
         "ReactJS",
         "GRPC",
@@ -240,10 +241,10 @@
       "name": "ORMs",
       "level": "",
       "keywords": [
+        "Sqlalchemy (Python)",
         "Gorm, MGo(GoLang)",
         "Hibernate, Liquibase (Java)",
-        "Sequelize (NodeJS)",
-        "Sqlalchemy (Python)"
+        "Sequelize (NodeJS)"
       ]
     },
     {
@@ -259,7 +260,8 @@
         "Google Cloud Platform",
         "Nomad",
         "Kubernetes",
-        "AWS Cloudformation"
+        "AWS Cloudformation",
+        "ECS"
       ]
     },
     {
@@ -271,6 +273,7 @@
         "MongoDB",
         "Redis",
         "Kafka",
+        "Redshift",
         "Neo4j",
         "DynamoDB"
       ]
@@ -279,13 +282,13 @@
       "name": "Server Side Application Development",
       "level": "",
       "keywords": [
+        "Python",
         "Golang",
         "Java",
         "Spring Boot",
         "Node",
-        "Express",
-        "Python",
-        "flask"
+        "Express", 
+        "Flask"
       ]
     },
     {
@@ -312,11 +315,15 @@
       "name": "AWS Technologies",
       "level": "",
       "keywords": [
+        "ECS",
         "EC2",
         "S3",
         "RDS",
+        "Redshift",
+        "Secrets Manager",
         "Cloudfront",
         "VPC",
+        "SES",
         "SNS",
         "Lambda",
         "Beanstalk",
@@ -329,7 +336,9 @@
         "Congnito",
         "Route 53",
         "Cloudformation",
-        "KMS"
+        "KMS",
+        "MKS",
+        "AWS Amplify"
       ]
     },
     {
