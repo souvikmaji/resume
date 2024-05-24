@@ -1,0 +1,23 @@
+{
+  "name": "myresume",
+  "version": "4.0.0",
+  "description": "",
+  "main": "resume.json",
+  "scripts": {
+    "test": "node_modules/.bin/resume validate",
+    "build": "node_modules/.bin/resume export --format html --theme stackoverflow public/index.html"
+  },
+  "author": "souvikmaji@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "jsonresume-theme-stackoverflow": "^2.0.0",
+    "minimist": "^1.2.6",
+    "moment": "^2.29.4",
+    "neo-async": "^2.6.2",
+    "resume-cli": "^3.1.2",
+    "source-map": "^0.6.1",
+    "uglify-js": "^3.16.2",
+    "wordwrap": "^1.0.0"
+  }
+}
