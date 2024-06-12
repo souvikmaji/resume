@@ -37,7 +37,7 @@
   },
   "work": [
     {
-      "company": "Fairmatic",
+      "name": "Fairmatic",
       "position": "Senior Software Engineer II",
       "website": "https://www.fairmatic.com",
       "startDate": "2022-09-05",
@@ -46,7 +46,7 @@
       "location": "Remote"
     },
     {
-      "company": "Razorpay",
+      "name": "Razorpay",
       "position": "Senior Software Engineer",
       "website": "https://www.razorpay.com",
       "startDate": "2021-12-29",
@@ -61,7 +61,7 @@
       "location": "Remote"
     },
     {
-      "company": "Junglee Games",
+      "name": "Junglee Games",
       "position": "SDE II",
       "website": "https://www.jungleegames.com",
       "startDate": "2019-12-02",
@@ -77,7 +77,7 @@
       "location": "Bangalore, KA"
     },
     {
-      "company": "Paypermint",
+      "name": "Paypermint",
       "position": "Product Engineer",
       "website": "https://payabbhi.com",
       "startDate": "2017-06-05",
