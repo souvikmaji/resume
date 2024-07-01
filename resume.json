@@ -43,21 +43,21 @@
       "startDate": "2022-09-05",
       "summary": "Senior Backend Engineer in the Fleet Experience team at Fairmatic, a new age digital fleet insurance company.",
       "highlights": [
-        "Key member of the Fleet Experience team, responsible for developing and maintaining backend services for trip collection and fleet management systems",
-        "Implemented automatic identification of duplicate trips using geospatial and time-based algorithms.",
-        "Set up a service monitoring pipeline using StatsD, Prometheus, and Grafana for enhanced system reliability.",
-        "Created a feature flag management system to streamline feature deployment and control.",
+        "Key member of the Fleet Experience team, responsible for developing and maintaining backend services for trip collection and fleet management systems.",
+        "Implemented automatic identification of duplicate trips using geospatial and time-based algorithms, enhancing data accuracy.",
+        "Set up a service monitoring pipeline using StatsD, Prometheus, and Grafana, significantly improving system reliability.",
         "Built an admin dashboard for back-office users using Streamlit, enhancing data accessibility and operational efficiency.",
-        "Developed a validation system for mobile SDK integrations with a pipeline to monitor and track SDK integration time.",
-        "Introduced beacon scanning, vehicle management, and driver device health tracking systems to improve fleet tracking and management.",
+        "Developed a validation system for mobile SDK integrations with a pipeline to monitor and track SDK integration time, ensuring seamless integration.",
+        "Introduced beacon scanning, vehicle management, and driver device health tracking systems, improving fleet tracking and management.",
         "Set up a pipeline for automatic crash detection and notifications to fleet managers, enhancing safety protocols.",
         "Developed a pipeline for sending regular NPS surveys and tracking responses to gauge user satisfaction.",
-        "Contributed to the creation of a tag-based driver management system.",
-        "Created a service for automatic trip filtering from premium calculations, optimizing cost management.",
-        "Automated fleet onboarding and offboarding process with an event-driven system, reducing onboarding time by 45%.",
-        "Assisted in creating a reproducible staging setup in ECS for consistent dev and testing environments.",
+        "Contributed to the creation of a tag-based driver management system, enhancing driver organization.",
+        "Created a feature flag management system to streamline feature deployment and control.",
         "Enhanced system observability by adding traceability, ensuring better monitoring and debugging capabilities.",
         "Established error monitoring and alerting systems using Sentry to ensure a quick response to issues.",
+        "Created a service for automatic trip filtering from premium calculations, optimizing cost management.",
+        "Automated fleet onboarding and offboarding processes with an event-driven system, reducing onboarding time by 45%.",
+        "Assisted in creating a reproducible staging setup in ECS for consistent development and testing environments.",
         "Added Ruff linter to the codebase to maintain high code quality standards and consistency."
       ],
       "location": "Remote"
@@ -70,10 +70,10 @@
       "endDate": "2022-08-17",
       "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay",
       "highlights": [
-        "Collaborated on developing and managing the platform to support all international payments done through the Razorpay payment gateway.",
-        "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
-        "Led the backend development efforts for the implementation of a B2B export payment transfer system, supporting large ticket transactions.",
-        "Actively involved in designing a new microservice to handle International PSP integrations."
+        "Led the backend development for a B2B export payment transfer system, supporting large ticket transactions.",
+        "Collaborated on developing and managing the platform to support all international payments through the Razorpay payment gateway.",
+        "Designed and implemented international recurring payments using third-party international payment gateways.",
+        "Actively involved in designing a new microservice to handle International PSP integrations, improving system flexibility and integration capabilities."
       ],
       "location": "Remote"
     },
@@ -85,12 +85,12 @@
       "endDate": "2021-12-27",
       "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill based mobile games company.",
       "highlights": [
-        "Created a microservice for auto KYC verification of users, utilizing fuzzy name matching logic, enhancing operational efficiency and compliance.",
-        "Boosted customer engagement by designing and implementing a scalable solution to display live scores for sports matches in the Howzat app.",
-        "Achieved up to a 33% improvement in query response time by optimizing query performance for critical time-consuming SQL operations.",
-        "Simplified bonus management and calculations by implementing a rule engine to calculate cashback bonuses based on human-readable rules.",
-        "Managed microservices for user account and transaction management as a primary owner.",
-        "Developed the backend for the internal admin server."
+        "Created a microservice for auto KYC verification of users, utilizing fuzzy name matching logic to enhance operational efficiency and compliance.",
+        "Designed and implemented a scalable solution to display live scores for sports matches in the Howzat app to boost customer engagement.",
+        "Optimized performance for critical time-consuming SQL operations achieving up to a 33% improvement in query response time .",
+        "Implemented a rule engine to parse human-readable rules and calculate cashback bonuses simplifying bonus management and calculations.",
+        "Acted as the primary owner of user profile and transaction management related Microservices created using Spring Boot ",
+        "Developed the backend for the internal admin server, improving administrative functionalities."
     ],    
       "location": "Bangalore, KA"
     },
@@ -102,14 +102,14 @@
       "endDate": "2019-12-01",
       "summary": "Fullstack Product Engineer in Paypermint - a B2B payments platform engineered to power online businesses.",
       "highlights": [
-        "Designed and implemented a customizable (via public APIs and dashboard portal), GST compliant invoicing solution for online merchants to collect payments.",
-        "Created a subscription management system for recurring payments, enabling merchants to manage their subscription plans with automated recurring transactions.",
-        "Led the migration of a legacy web application to Spring Web MVC, incorporating a Bootstrap dashboard theme, resulting in a modernized and user-friendly interface.",
-        "Developed and maintained public APIs and open source API wrapper libraries in Java, Python, Go, NodeJs, and mobile SDKs like Android and Cordova, facilitating cross-platform integration.",
-        "Engaged in all stages of the product development lifecycle, from understanding the business case to implementation, ensuring seamless transition and alignment with strategic goals.",
-        "Utilized Microservice Architecture with SQL & NoSQL databases and GRPC communication protocol to enhance system efficiency and scalability.",
-        "Created multiple single-page web applications to support complex workflows, improving user experience and operational efficiency.",
-        "Fostered strong partnerships with clients and third-party vendors by collaborating to provide and support technical solutions."  
+        "Designed and implemented a GST-compliant invoicing solution for online merchants, customizable via public APIs and a dashboard portal.",
+        "Developed a subscription management system for automated recurring payments, enabling merchants to their subscription plans and collect payment seamlessly.",
+        "Led the migration of a legacy web application to Spring Web MVC, modernizing the interface and improving user experience.",
+        "Engineered and maintained public APIs and open-source API wrapper libraries in Java, Python, Go, NodeJs, and mobile SDKs like Android and Cordova.",
+        "Applied Microservice Architecture with SQL & NoSQL databases and GRPC communication protocol to significantly boost system efficiency and scalability.",
+        "Created multiple single-page web applications to streamline complex workflows, enhancing user experience and operational efficiency.",
+        "Engaged in all stages of the product development lifecycle, from business case analysis to implementation, ensuring alignment with strategic goals.",
+        "Cultivated strong partnerships with clients and third-party vendors by collaborating on technical solutions and providing robust support."
         ],    
       "location": "Kolkata, WB"
     }
