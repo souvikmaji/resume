@@ -68,7 +68,7 @@
       "website": "https://www.razorpay.com",
       "startDate": "2021-12-29",
       "endDate": "2022-08-17",
-      "summary": "Senior Backend Engineer at the cross border engineering team taking care of international payments at Razorpay",
+      "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay",
       "highlights": [
         "Collaborated on developing and managing the platform to support all international payments done through the Razorpay payment gateway.",
         "Worked on design and implementation of international recurring payments using 3rd party international payment gateways.",
@@ -83,14 +83,15 @@
       "website": "https://www.jungleegames.com",
       "startDate": "2019-12-02",
       "endDate": "2021-12-27",
-      "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill games company.",
+      "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill based mobile games company.",
       "highlights": [
-        "Created a service for auto KYC verification of users, utilizing a fuzzy name matching logic.",
-        "Implemented a rule engine to calculate cashback bonuses based on human-readable rules.",
-        "Developed the backend for an internal admin server.",
-        "Successfully optimized query performance for critical time-consuming SQL operations, resulting in a significant improvement of up to 33%.",
-        "Designed and implemented a scalable solution to display live scores for sports matches in the Howzat app."
-      ],
+        "Created a microservice for auto KYC verification of users, utilizing fuzzy name matching logic, enhancing operational efficiency and compliance.",
+        "Boosted customer engagement by designing and implementing a scalable solution to display live scores for sports matches in the Howzat app.",
+        "Achieved up to a 33% improvement in query response time by optimizing query performance for critical time-consuming SQL operations.",
+        "Simplified bonus management and calculations by implementing a rule engine to calculate cashback bonuses based on human-readable rules.",
+        "Managed microservices for user account and transaction management as a primary owner.",
+        "Developed the backend for the internal admin server."
+    ],    
       "location": "Bangalore, KA"
     },
     {
@@ -99,16 +100,17 @@
       "website": "https://payabbhi.com",
       "startDate": "2017-06-05",
       "endDate": "2019-12-01",
-      "summary": "Working as a Product Engineer in Paypermint - the next-generation trusted payments platform engineered to power online businesses.",
+      "summary": "Fullstack Product Engineer in Paypermint - a B2B payments platform engineered to power online businesses.",
       "highlights": [
-        "Engaged in all stages of the Product Development Lifecycle, from understanding the Business Case to Implementation.",
-        "Extensively worked with Microservice Architecture, utilizing SQL & NoSQL databases, and employing GRPC as the communication protocol.",
-        "Designed and Implemented Paypermint's Invoicing and Subscription solution.",
-        "Led the effort to migrate a legacy web application to Spring Web MVC, incorporating a Bootstrap dashboard theme.",
-        "Developed and maintained Restful APIs and Open Source API Wrapper Libraries in various languages, including Java, Python, Go, NodeJs, as well as mobile SDKs like Android and Cordova.",
-        "Created multiple Single Page Web Applications to support complex application workflows.",
-        "Experience in collaborating with 3rd party vendors and clients, providing and supporting technical solutions."
-      ],
+        "Designed and implemented a customizable (via public APIs and dashboard portal), GST compliant invoicing solution for online merchants to collect payments.",
+        "Created a subscription management system for recurring payments, enabling merchants to manage their subscription plans with automated recurring transactions.",
+        "Led the migration of a legacy web application to Spring Web MVC, incorporating a Bootstrap dashboard theme, resulting in a modernized and user-friendly interface.",
+        "Developed and maintained public APIs and open source API wrapper libraries in Java, Python, Go, NodeJs, and mobile SDKs like Android and Cordova, facilitating cross-platform integration.",
+        "Engaged in all stages of the product development lifecycle, from understanding the business case to implementation, ensuring seamless transition and alignment with strategic goals.",
+        "Utilized Microservice Architecture with SQL & NoSQL databases and GRPC communication protocol to enhance system efficiency and scalability.",
+        "Created multiple single-page web applications to support complex workflows, improving user experience and operational efficiency.",
+        "Fostered strong partnerships with clients and third-party vendors by collaborating to provide and support technical solutions."  
+        ],    
       "location": "Kolkata, WB"
     }
   ],
