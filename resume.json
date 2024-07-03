@@ -91,7 +91,7 @@
         "Implemented a rule engine to parse human-readable rules and calculate cashback bonuses simplifying bonus management and calculations.",
         "Optimized performance for critical time-consuming SQL operations achieving up to a 33% improvement in query response time.",
         "Developed the backend for the internal admin server, improving administrative functionalities."
-    ],    
+      ],
       "location": "Bangalore, KA"
     },
     {
@@ -110,7 +110,7 @@
         "Created multiple single-page web applications to streamline complex workflows, enhancing user experience and operational efficiency.",
         "Engaged in all stages of the product development lifecycle, from business case analysis to implementation, ensuring alignment with strategic goals.",
         "Cultivated strong partnerships with clients and third-party vendors by collaborating on technical solutions and providing robust support."
-        ],    
+      ],
       "location": "Kolkata, WB"
     }
   ],
@@ -307,7 +307,7 @@
         "Java",
         "Spring Boot",
         "Node",
-        "Express", 
+        "Express",
         "Flask"
       ]
     },
