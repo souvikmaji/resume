@@ -9,7 +9,7 @@
     "email": "souvikmaji94@gmail.com",
     "phone": "(+91) 9432489362",
     "website": "https://cv.souviks.in",
-    "summary": "Experienced senior backend engineer with a strong commitment to collaboration and solution oriented problem-solving. Experienced in Design and Development of End to End solutions using Restful APIs and Micro-services.",
+    "summary": "Experienced Senior Software Engineer with over 7 years in backend development for innovative startups, specializing in creating efficient, scalable systems and optimizing performance to support business growth and enhance user satisfaction.",
     "location": {
       "address": "",
       "postalCode": "700079",
@@ -60,7 +60,7 @@
         "Assisted in creating a reproducible staging setup in ECS for consistent development and testing environments.",
         "Added Ruff linter to the codebase to maintain high code quality standards and consistency."
       ],
-      "location": "Remote"
+      "location": "Bangalore, Remote"
     },
     {
       "name": "Razorpay",
@@ -68,14 +68,14 @@
       "website": "https://www.razorpay.com",
       "startDate": "2021-12-29",
       "endDate": "2022-08-17",
-      "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay",
+      "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay.",
       "highlights": [
         "Led the backend development for a B2B export payment transfer system supporting large ticket transactions, which accounted for 8% of all international transactions.",
         "Designed and implemented international recurring payments using third-party international payment gateways.",
         "Actively involved in designing a new microservice to handle International PSP integrations, improving system flexibility and integration capabilities.",
         "Collaborated on developing and managing the platform to support all international payments through the Razorpay payment gateway."
       ],
-      "location": "Remote"
+      "location": "Bangalore, Remote"
     },
     {
       "name": "Junglee Games",
