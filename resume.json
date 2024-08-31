@@ -48,7 +48,7 @@
         "Set up a service monitoring pipeline using StatsD, Prometheus, and Grafana, significantly improving system reliability.",
         "Developed a validation system for mobile SDK integrations with a pipeline to monitor and track SDK integration time, ensuring seamless integration.",
         "Introduced beacon scanning, vehicle management, and driver device health tracking systems, improving fleet tracking and management.",
-        "Developed a pipeline for sending regular NPS surveys and tracking responses to gauge user satisfaction.",
+        "Designed and implemented scalable pipeline for NPS survey distribution and response tracking, to gauge user satisfaction metrics.",
         "Created a feature flag management system to streamline feature deployment and control.",
         "Set up a pipeline for automatic crash detection and notifications to fleet managers, reducing claim lag time by 30%.",
         "Contributed to the creation of a tag-based driver management system, increasing dashboard adoption by 12%.",
@@ -410,7 +410,7 @@
   ],
   "interests": [
     {
-      "name": "Playing Chess Online",
+      "name": "Playing Chess",
       "keywords": []
     },
     {
@@ -422,11 +422,23 @@
       "keywords": []
     },
     {
-      "name": "Trying Out New Technologies",
+      "name": "Travelling",
       "keywords": []
     },
     {
-      "name": "Travelling with Friends",
+      "name": "Exploring New Technologies",
+      "keywords": []
+    },
+    {
+      "name": "Cooking",
+      "keywords": []
+    },
+    {
+      "name": "Current Affairs",
+      "keywords": []
+    },
+    {
+      "name": "Cars and Long Drives",
       "keywords": []
     }
   ]
