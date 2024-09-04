@@ -44,16 +44,18 @@
       "summary": "Senior Backend Engineer in the Fleet Experience team at Fairmatic, an AI driven fleet insurance company.",
       "highlights": [
         "Key member of the Fleet Experience team, responsible for developing and maintaining backend services for trip collection and fleet management systems.",
+        "Designed and maintained a high-throughput backend on AWS, leveraging AWS Lambda, ECS, and Kafka on AWS MSK to process 75,0000 events per hour, supporting critical insurance operations.",
+        "Optimized data workflows with PySpark on AWS EMR, integrating processed data into Amazon Redshift for downstream analytics by Research and ML teams.",
         "Implemented automatic identification of duplicate trips using geospatial and time-based algorithms, enhancing data accuracy.",
-        "Set up a service monitoring pipeline using StatsD, Prometheus, and Grafana, significantly improving system reliability.",
+        "Engineered a robust service monitoring infrastructure using StatsD, Prometheus, and Grafana, driving SLIs adherence and minimizing production downtimes.",
         "Developed a validation system for mobile SDK integrations with a pipeline to monitor and track SDK integration time, ensuring seamless integration.",
         "Introduced beacon scanning, vehicle management, and driver device health tracking systems, improving fleet tracking and management.",
         "Designed and implemented scalable pipeline for NPS survey distribution and response tracking, to gauge user satisfaction metrics.",
         "Created a feature flag management system to streamline feature deployment and control.",
         "Set up a pipeline for automatic crash detection and notifications to fleet managers, reducing claim lag time by 30%.",
-        "Contributed to the creation of a tag-based driver management system, increasing dashboard adoption by 12%.",
+        "Contributed to the creation of a tag-based driver management system, increasing driver management and monitoring dashboard adoption by 12%.",
         "Automated fleet onboarding and offboarding processes with an event-driven system, reducing onboarding time by 45%.",
-        "Built an admin dashboard for back-office users using Streamlit, enhancing data accessibility and operational efficiency.",
+        "Developed an admin dashboard with Streamlit, supporting fleet and policy management and optimizing invoice distribution for enhanced operational efficiency.",
         "Enhanced system observability by adding traceability, ensuring better monitoring and debugging capabilities.",
         "Established error monitoring and alerting systems using Sentry to ensure a quick response to issues.",
         "Created a service for automatic trip filtering from premium calculations, optimizing cost management.",
@@ -70,9 +72,9 @@
       "endDate": "2022-08-17",
       "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay.",
       "highlights": [
-        "Led the backend development for a B2B export payment transfer system supporting large ticket transactions, which accounted for 8% of all international transactions.",
+        "Spearheaded the design and deployment of scalable APIs for B2B export payment systems, leveraging cloud services to handle large-scale international transactions.",
         "Designed and implemented international recurring payments using third-party international payment gateways.",
-        "Actively involved in designing a new microservice to handle International PSP integrations, improving system flexibility and integration capabilities.",
+        "Architected and implemented microservices for seamless integration with International Payment Service Providers (PSPs), enhancing system flexibility and reducing latency.",
         "Collaborated on developing and managing the platform to support all international payments through the Razorpay payment gateway."
       ],
       "location": "Bangalore, Remote"
