@@ -4,12 +4,11 @@
   },
   "basics": {
     "name": "Souvik Maji",
-    "label": "Senior Backend Engineer",
-    "picture": "https://my-personal-pictures.s3.ap-south-1.amazonaws.com/PSFix_20191203_003640.jpg",
+    "label": "Senior Software Engineer | Backend & Distributed Systems",
     "email": "souvikmaji94@gmail.com",
     "phone": "(+91) 9432489362",
     "website": "https://cv.souviks.in",
-    "summary": "Experienced Senior Software Engineer with over 7 years in backend development for innovative startups, specializing in creating efficient, scalable systems and optimizing performance to support business growth and enhance user satisfaction.",
+    "summary": "Backend engineer building production systems since 2017 across identity and access management, payments, and fleet insurance. At Deel, I build integrations and provisioning workflows for Deel IT. My work spans API and data-model design, event-driven services, third-party integrations, and production reliability, with hands-on experience in TypeScript, Python, Go, and Java.",
     "location": {
       "address": "",
       "postalCode": "700079",
@@ -33,36 +32,46 @@
         "username": "souvikmaji",
         "url": "https://stackoverflow.com/users/3198508/souvikmaji"
       }
-    ]
+    ],
+    "url": "https://cv.souviks.in"
   },
   "work": [
+    {
+      "name": "Deel",
+      "position": "Senior Software Engineer",
+      "website": "https://www.deel.com",
+      "startDate": "2024-12",
+      "location": "Remote",
+      "summary": "Backend engineer in Integrations / Deel IT Core, building identity, access management, and account provisioning capabilities.",
+      "highlights": [
+        "Delivered the backend for App Access Requests and Approval, spanning database schema design, worker APIs, approval workflows, multiple access levels, and handling of unmatched workers.",
+        "Built Google Workspace identity and access management integrations, including static and dynamic access groups, pagination, retries, and integration configuration.",
+        "Enhanced account provisioning integrations for Microsoft Entra and Google Workspace, including real-time provisioning flows and account matching and synchronization edge cases.",
+        "Implemented NATS consumers for account and group provisioning and dynamic group membership changes.",
+        "Developed APIs and PostgreSQL data models for integration settings, roles, permissions, and identity-management feature enablement using TypeScript and Node.js.",
+        "Worked across product, design, frontend engineering, and customer support to deliver integrations, resolve production issues, and unblock cross-time-zone delivery; mentored engineers on backend work."
+      ],
+      "url": "https://www.deel.com"
+    },
     {
       "name": "Fairmatic",
       "position": "Senior Software Engineer II",
       "website": "https://www.fairmatic.com",
       "startDate": "2022-08-05",
-      "summary": "Senior Backend Engineer in the Fleet Experience team at Fairmatic, an AI driven fleet insurance company.",
+      "summary": "Senior Software Engineer II in the Fleet Experience team, building backend services and data pipelines for fleet management and insurance.",
       "highlights": [
-        "Key member of the Fleet Experience team, responsible for developing and maintaining backend services for trip collection and fleet management systems.",
-        "Designed and maintained a high-throughput backend on AWS, leveraging AWS Lambda, ECS, and Kafka on AWS MSK to process 75,0000 events per hour, supporting critical insurance operations.",
-        "Optimized data workflows with PySpark on AWS EMR, integrating processed data into Amazon Redshift for downstream analytics by Research and ML teams.",
-        "Implemented automatic identification of duplicate trips using geospatial and time-based algorithms, enhancing data accuracy.",
-        "Engineered a robust service monitoring infrastructure using StatsD, Prometheus, and Grafana, driving SLIs adherence and minimizing production downtimes.",
-        "Developed a validation system for mobile SDK integrations with a pipeline to monitor and track SDK integration time, ensuring seamless integration.",
-        "Introduced beacon scanning, vehicle management, and driver device health tracking systems, improving fleet tracking and management.",
-        "Designed and implemented scalable pipeline for NPS survey distribution and response tracking, to gauge user satisfaction metrics.",
-        "Created a feature flag management system to streamline feature deployment and control.",
-        "Set up a pipeline for automatic crash detection and notifications to fleet managers, reducing claim lag time by 30%.",
-        "Contributed to the creation of a tag-based driver management system, increasing driver management and monitoring dashboard adoption by 12%.",
-        "Automated fleet onboarding and offboarding processes with an event-driven system, reducing onboarding time by 45%.",
-        "Developed an admin dashboard with Streamlit, supporting fleet and policy management and optimizing invoice distribution for enhanced operational efficiency.",
-        "Enhanced system observability by adding traceability, ensuring better monitoring and debugging capabilities.",
-        "Established error monitoring and alerting systems using Sentry to ensure a quick response to issues.",
-        "Created a service for automatic trip filtering from premium calculations, optimizing cost management.",
-        "Assisted in creating a reproducible staging setup in ECS for consistent development and testing environments.",
-        "Added Ruff linter to the codebase to maintain high code quality standards and consistency."
+        "Designed and maintained event-driven services for trip collection and fleet management using Python, AWS Lambda, ECS, and Kafka on Amazon MSK.",
+        "Implemented duplicate-trip detection using geospatial and time-based algorithms to improve the accuracy of trip data.",
+        "Built automatic crash-detection and fleet-manager notification pipelines, reducing claim lag time by 30%.",
+        "Automated fleet onboarding and offboarding with event-driven workflows, reducing onboarding time by 45%.",
+        "Contributed to a tag-based driver management system that increased adoption of the driver management and monitoring dashboard by 12%.",
+        "Delivered beacon scanning, vehicle management, driver device health tracking, and mobile SDK integration validation.",
+        "Built PySpark workflows on AWS EMR with Redshift outputs for research and machine-learning analytics, and Streamlit tools for fleet and policy operations.",
+        "Improved service observability with StatsD, Prometheus, Grafana, and Sentry; helped establish reproducible ECS staging environments."
       ],
-      "location": "Bangalore, Remote"
+      "location": "Bangalore, Remote",
+      "endDate": "2024-12",
+      "url": "https://www.fairmatic.com"
     },
     {
       "name": "Razorpay",
@@ -70,14 +79,13 @@
       "website": "https://www.razorpay.com",
       "startDate": "2021-12-29",
       "endDate": "2022-08-17",
-      "summary": "Senior Backend Engineer at the cross border engineering team taking care of all international payments at Razorpay.",
+      "summary": "Senior Backend Engineer in the Cross-Border Engineering team, building international payment capabilities.",
       "highlights": [
-        "Spearheaded the design and deployment of scalable APIs for B2B export payment systems, leveraging cloud services to handle large-scale international transactions.",
-        "Designed and implemented international recurring payments using third-party international payment gateways.",
-        "Architected and implemented microservices for seamless integration with International Payment Service Providers (PSPs), enhancing system flexibility and reducing latency.",
-        "Collaborated on developing and managing the platform to support all international payments through the Razorpay payment gateway."
+        "Designed APIs for B2B export payments and international recurring payments using third-party payment gateways.",
+        "Built microservices integrating international payment service providers for Razorpay’s cross-border payments platform."
       ],
-      "location": "Bangalore, Remote"
+      "location": "Bangalore, Remote",
+      "url": "https://www.razorpay.com"
     },
     {
       "name": "Junglee Games",
@@ -85,16 +93,15 @@
       "website": "https://www.jungleegames.com",
       "startDate": "2019-12-02",
       "endDate": "2021-12-27",
-      "summary": "Backend Java Developer for various gaming products of Junglee Games - the fastest growing skill based mobile games company.",
+      "summary": "Backend Java engineer building services for gaming products at Junglee Games.",
       "highlights": [
         "Acted as the primary owner of user profile and transaction management related Microservices created using Spring Boot.",
         "Created a new microservice for auto KYC verification of users, utilizing fuzzy name matching logic, reducing manual verification time by 35% and enhancing compliance.",
-        "Designed and implemented a scalable solution to display live scores for sports matches in the Howzat app to boost customer engagement.",
         "Implemented a rule engine to parse human-readable rules and calculate cashback bonuses simplifying bonus management and calculations.",
-        "Optimized performance for critical time-consuming SQL operations achieving up to a 33% improvement in query response time.",
-        "Developed the backend for the internal admin server, improving administrative functionalities."
+        "Optimized performance for critical time-consuming SQL operations achieving up to a 33% improvement in query response time."
       ],
-      "location": "Bangalore, KA"
+      "location": "Bangalore, KA",
+      "url": "https://www.jungleegames.com"
     },
     {
       "name": "Paypermint",
@@ -102,84 +109,62 @@
       "website": "https://payabbhi.com",
       "startDate": "2017-06-05",
       "endDate": "2019-12-01",
-      "summary": "Fullstack Product Engineer in Paypermint - a B2B payments platform engineered to power online businesses.",
+      "summary": "Full-stack Product Engineer at Paypermint, building payment and merchant-facing products.",
       "highlights": [
-        "Designed and implemented a GST-compliant invoicing solution for online merchants, customizable via public APIs and a dashboard portal.",
-        "Developed a subscription management system for automated recurring payments, enabling merchants to their subscription plans and collect payment seamlessly.",
-        "Applied Microservice Architecture with SQL & NoSQL databases and GRPC communication protocol to significantly boost system efficiency and scalability.",
-        "Engineered and maintained public APIs and open-source API wrapper libraries in Java, Python, Go, NodeJs, and mobile SDKs like Android and Cordova.",
-        "Led the migration of a legacy web application to Spring Web MVC, modernizing the interface and improving user experience.",
-        "Created multiple single-page web applications to streamline complex workflows, enhancing user experience and operational efficiency.",
-        "Engaged in all stages of the product development lifecycle, from business case analysis to implementation, ensuring alignment with strategic goals.",
-        "Cultivated strong partnerships with clients and third-party vendors by collaborating on technical solutions and providing robust support."
+        "Designed a GST-compliant invoicing solution with public APIs and a merchant dashboard, and built subscription management for recurring payments.",
+        "Built microservices using SQL and NoSQL databases with gRPC communication.",
+        "Developed public APIs, open-source client libraries in Java, Python, Go, and Node.js, and Android and Cordova SDKs.",
+        "Worked across product design, implementation, client integrations, and technical support."
       ],
-      "location": "Kolkata, WB"
+      "location": "Kolkata, WB",
+      "url": "https://payabbhi.com"
     }
   ],
   "projects": [
     {
+      "name": "Open Archive",
+      "description": "Built and published a Chrome extension that opens the latest archived version of a webpage through the Wayback Machine API.",
+      "url": "https://chromewebstore.google.com/detail/open-archive/kgbhhpbffpfihonajnpmoalggjcnidkg",
       "keywords": [
-        "Tools used(C++, Wt, Python, Flask)"
+        "JavaScript",
+        "Chrome Extensions",
+        "Wayback Machine API"
       ],
-      "name": "Rural Health Care Monitoring System",
-      "description": "Implemented a load balancing service to balance load in a wireless sensor network which is used to receive medical data from rural health care centres. Developed a web-based dashboard to be used by doctors to monitor patient data. Created a Medicine Reminder System.",
-      "url": "https://github.com/souvikmaji/healthcare"
+      "highlights": [
+        "Open-source project: github.com/souvikmaji/open-archive."
+      ],
+      "summary": "Built and published a Chrome extension that opens the latest archived version of a webpage through the Wayback Machine API."
     },
     {
       "keywords": [
-        "Tools used(C++)"
-      ],
-      "name": "Bengali OCR",
-      "description": "Statistical language modelling of Bengali text to design a handwritten Bengali character recognition system.",
-      "url": ""
-    },
-    {
-      "keywords": [
-        "NodeJs, MySql"
-      ],
-      "name": "Foodcache",
-      "description": "Express based Web Application to keep track of money paid and received for office pantry. It gives monthly alerts to all its users via email and Slack. The admin of this application can handle accounts and can view which users still owe money.",
-      "url": "https://github.com/souvikmaji/foodcache"
-    },
-    {
-      "keywords": [
-        "Golang, Jquery Datatables"
+        "Go",
+        "PostgreSQL",
+        "Redis",
+        "jQuery DataTables"
       ],
       "name": "Leaderboard",
       "description": "Golang web application with a RESTful interface for managing game leaderboards. Benchmarked leaderboard calculation time for Redis vs PostgreSQL database. Developed a single page JQuery Datatables based UI.",
-      "url": "https://github.com/souvikmaji/leaderboard"
+      "url": "https://github.com/souvikmaji/leaderboard",
+      "summary": "Golang web application with a RESTful interface for managing game leaderboards. Benchmarked leaderboard calculation time for Redis vs PostgreSQL database. Developed a single page JQuery Datatables based UI."
     },
     {
       "keywords": [
-        "Golang"
+        "Go",
+        "Git"
       ],
       "name": "Hobbit",
       "description": "Static site generator written in Golang which uses git as a backend. Inspired from https://github.com/gollum/gollum",
-      "url": "https://github.com/souvikmaji/hobbit"
+      "url": "https://github.com/souvikmaji/hobbit",
+      "summary": "Static site generator written in Golang which uses git as a backend. Inspired from https://github.com/gollum/gollum"
     },
     {
       "keywords": [
-        "Node"
-      ],
-      "name": "Got-Bot",
-      "description": "Twitter bot that can post random content (media/text) from a particular subreddit.",
-      "url": "https://github.com/souvikmaji/got-bot"
-    },
-    {
-      "keywords": [
-        "Golang"
+        "Go"
       ],
       "name": "VBM - Virtual Brainfucking Machine",
       "description": "VBM is a simple yet fast brainfuck interpreter.",
-      "url": "https://github.com/souvikmaji/vbm"
-    },
-    {
-      "keywords": [
-        "JavaScript"
-      ],
-      "name": "Cross The Road",
-      "description": "Arcade style game developed in JavaScript. Inspired from Frogger",
-      "url": "https://github.com/souvikmaji/cross-the-road"
+      "url": "https://github.com/souvikmaji/vbm",
+      "summary": "VBM is a simple yet fast brainfuck interpreter."
     }
   ],
   "volunteer": [
@@ -197,29 +182,10 @@
     {
       "institution": "Jadavpur University",
       "area": "Computer Science & Engineering",
-      "studyType": "Full Time",
+      "studyType": "Bachelor of Technology (B.Tech.)",
       "startDate": "2013-07-01",
       "endDate": "2017-05-01",
-      "gpa": "6.94",
       "courses": [],
-      "location": "Kolkata, WB"
-    },
-    {
-      "institution": "Hindu School",
-      "area": "Science",
-      "studyType": "West Bengal Council of Higher Secondary Education",
-      "startDate": "2010-03-01",
-      "endDate": "2012-03-01",
-      "gpa": "77%",
-      "location": "Kolkata, WB"
-    },
-    {
-      "institution": "The Scottish Church Collegiate School",
-      "area": "",
-      "studyType": "West Bengal Board of Secondary Education",
-      "startDate": "2000-03-01",
-      "endDate": "2010-03-01",
-      "gpa": "81.12%",
       "location": "Kolkata, WB"
     }
   ],
@@ -227,172 +193,89 @@
   "publications": [],
   "skills": [
     {
-      "name": "Programming Languages",
-      "level": "",
+      "name": "Languages",
       "keywords": [
-        "Golang",
-        "Java",
-        "NodeJS",
+        "TypeScript",
         "Python",
-        "HTML",
-        "CSS",
-        "Javascript"
+        "Go",
+        "Java",
+        "JavaScript",
+        "SQL"
       ]
     },
     {
-      "name": "Frameworks",
-      "level": "",
+      "name": "Backend & APIs",
       "keywords": [
+        "Node.js",
+        "Express",
+        "FastAPI",
         "Flask",
         "Spring Boot",
-        "Gin",
-        "JUnit",
-        "Express",
-        "PySpark",
-        "Bootstrap",
-        "ReactJS",
-        "GRPC",
-        "Ionic/Cordova",
-        "Mocha & Chai",
-        "OSGI",
-        "RxJava"
+        "REST APIs",
+        "gRPC",
+        "Sequelize",
+        "SQLAlchemy"
       ]
     },
     {
-      "name": "ORMs",
-      "level": "",
+      "name": "Data & Messaging",
       "keywords": [
-        "Sqlalchemy (Python)",
-        "Gorm, MGo(GoLang)",
-        "Hibernate, Liquibase (Java)",
-        "Sequelize (NodeJS)"
+        "PostgreSQL",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "Kafka",
+        "NATS",
+        "PySpark",
+        "Amazon Redshift"
       ]
     },
     {
-      "name": "Infrastructure",
-      "level": "",
+      "name": "Cloud & Delivery",
       "keywords": [
         "AWS",
         "Docker",
-        "Vault",
-        "Zookeeper",
-        "Consul",
-        "Heroku",
-        "Google Cloud Platform",
-        "Nomad",
         "Kubernetes",
-        "AWS Cloudformation",
-        "ECS",
-        "Drone CI/CD"
+        "Amazon EKS",
+        "Amazon ECS",
+        "AWS Lambda",
+        "Amazon S3",
+        "GitHub Actions",
+        "Jenkins"
       ]
     },
     {
-      "name": "Database",
-      "level": "",
+      "name": "Identity & Integrations",
       "keywords": [
-        "MySQL",
-        "PostgreSQL",
-        "MongoDB",
-        "Redis",
-        "Kafka",
-        "Redshift",
-        "Neo4j",
-        "DynamoDB"
+        "Google Workspace",
+        "Microsoft Entra ID",
+        "JumpCloud",
+        "SCIM",
+        "OAuth 2.0",
+        "Account Provisioning",
+        "Access Management"
       ]
     },
     {
-      "name": "Server Side Application Development",
-      "level": "",
+      "name": "Observability & Testing",
       "keywords": [
-        "Python",
-        "Golang",
-        "Java",
-        "Spring Boot",
-        "Node",
-        "Express",
-        "Flask"
+        "Datadog",
+        "Prometheus",
+        "Grafana",
+        "StatsD",
+        "Sentry",
+        "Jest",
+        "JUnit"
       ]
     },
     {
-      "name": "Front End Technologies",
-      "level": "",
+      "name": "Frontend & Tools",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Bootstrap",
-        "Response Web Design"
-      ]
-    },
-    {
-      "name": "Cross Platform Mobile Technologies",
-      "level": "",
-      "keywords": [
-        "React Native",
-        "Ionic",
-        "Cordova"
-      ]
-    },
-    {
-      "name": "AWS Technologies",
-      "level": "",
-      "keywords": [
-        "ECS",
-        "EC2",
-        "S3",
-        "RDS",
-        "Redshift",
-        "Secrets Manager",
-        "Cloudfront",
-        "VPC",
-        "SES",
-        "SNS",
-        "Lambda",
-        "Beanstalk",
-        "API Gateway",
-        "Elastic Cache",
-        "DynamoDB",
-        "IAM",
-        "SQS",
-        "Cloudwatch",
-        "Congnito",
-        "Route 53",
-        "Cloudformation",
-        "KMS",
-        "MKS",
-        "AWS Amplify"
-      ]
-    },
-    {
-      "name": "Shell Scripting",
-      "level": "",
-      "keywords": [
-        "bash",
-        "zsh"
-      ]
-    },
-    {
-      "name": "Spring Boot",
-      "level": "",
-      "keywords": [
-        "Web",
-        "RestClient",
-        "Configuration",
-        "WebMVC",
-        "JPA",
-        "Thymeleaf",
-        "Testing"
-      ]
-    },
-    {
-      "name": "Misc",
-      "level": "",
-      "keywords": [
-        "Algorithm and Data Structure",
-        "GRPC",
-        "Database Design",
-        "Restful API Design",
-        "Git"
+        "React",
+        "Vite",
+        "Streamlit",
+        "Git",
+        "Bash"
       ]
     }
   ],

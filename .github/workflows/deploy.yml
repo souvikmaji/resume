@@ -24,7 +24,9 @@ jobs:
     - run: npm ci
     - run: npm test
     - run: npm run build 
+    # Pull requests validate and build; only master pushes deploy to production.
     - uses: jsmrcaga/action-netlify-deploy@v2.0.0
+      if: github.event_name == 'push' && github.ref == 'refs/heads/master'
       with:
         NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
         NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
